@@ -5,7 +5,9 @@
   },
   "description": "Spins up a demo serving cards for different games",
   "devDependencies": {
-    "jest": "^29.3.1"
+    "@types/jest": "^29.2.5",
+    "jest": "^29.3.1",
+    "prettier": "^2.8.2"
   },
   "homepage": "https://github.com/iamogbz/card-gems#readme",
   "keywords": [
@@ -17,12 +19,20 @@
   "license": "Unlicense",
   "main": "index.js",
   "name": "card-gems",
+  "prettier": {
+    "semi": false,
+    "singleQuote": true,
+    "tabWidth": 2,
+    "trailingComma": "es5"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iamogbz/card-gems.git"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "lint": "prettier '**/*' --check",
+    "format": "prettier '**/*' --write"
   },
   "version": "0.0.0"
 }
