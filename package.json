@@ -1,0 +1,28 @@
+{
+  "author": "iamogbz",
+  "bugs": {
+    "url": "https://github.com/iamogbz/card-gems/issues"
+  },
+  "description": "Spins up a demo serving cards for different games",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "homepage": "https://github.com/iamogbz/card-gems#readme",
+  "keywords": [
+    "card",
+    "games",
+    "board",
+    "tabletop"
+  ],
+  "license": "Unlicense",
+  "main": "index.js",
+  "name": "card-gems",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamogbz/card-gems.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "version": "0.0.0"
+}
