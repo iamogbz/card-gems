@@ -8,6 +8,7 @@
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-state-url-fragment": "^1.0.0",
     "typescript": "^4.9.4"
   },
   "description": "Spins up a demo serving cards for different games",

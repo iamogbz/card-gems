@@ -9,18 +9,22 @@ specifiers:
   prop-types: ^15.8.1
   react: ^18.2.0
   react-dom: ^18.2.0
+  react-state-url-fragment: ^1.0.0
   typescript: ^4.9.4
+
+dependencies:
+  htm: 3.1.1
+  prop-types: 15.8.1
+  react: 18.2.0
+  react-dom: 18.2.0_react@18.2.0
+  react-state-url-fragment: 1.0.0_react@18.2.0
+  typescript: 4.9.4
 
 devDependencies:
   '@types/jest': 29.2.5
   '@types/react': 18.0.26
-  htm: 3.1.1
   jest: 29.3.1
   prettier: 2.8.2
-  prop-types: 15.8.1
-  react: 18.2.0
-  react-dom: 18.2.0_react@18.2.0
-  typescript: 4.9.4
 
 packages:
   /@ampproject/remapping/2.2.0:
@@ -1670,7 +1674,7 @@ packages:
       {
         integrity: sha512-983Vyg8NwUE7JkZ6NmOqpCZ+sh1bKv2iYTlUkzlWmA5JD2acKoxd4KVxbMmxX/85mtfdnDmTFoNKcg5DGAvxNQ==,
       }
-    dev: true
+    dev: false
 
   /html-escaper/2.0.2:
     resolution:
@@ -2373,7 +2377,6 @@ packages:
       {
         integrity: sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==,
       }
-    dev: true
 
   /js-yaml/3.14.1:
     resolution:
@@ -2452,7 +2455,7 @@ packages:
     hasBin: true
     dependencies:
       js-tokens: 4.0.0
-    dev: true
+    dev: false
 
   /lru-cache/5.1.1:
     resolution:
@@ -2579,7 +2582,7 @@ packages:
         integrity: sha512-rJgTQnkUnH1sFw8yT6VSU3zD3sWmu6sZhIseY8VX+GRu3P6F7Fu+JNDoXfklElbLJSnc3FUQHVe4cU5hj+BcUg==,
       }
     engines: { node: '>=0.10.0' }
-    dev: true
+    dev: false
 
   /once/1.4.0:
     resolution:
@@ -2756,7 +2759,7 @@ packages:
       loose-envify: 1.4.0
       object-assign: 4.1.1
       react-is: 16.13.1
-    dev: true
+    dev: false
 
   /react-dom/18.2.0_react@18.2.0:
     resolution:
@@ -2769,14 +2772,14 @@ packages:
       loose-envify: 1.4.0
       react: 18.2.0
       scheduler: 0.23.0
-    dev: true
+    dev: false
 
   /react-is/16.13.1:
     resolution:
       {
         integrity: sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==,
       }
-    dev: true
+    dev: false
 
   /react-is/18.2.0:
     resolution:
@@ -2784,6 +2787,17 @@ packages:
         integrity: sha512-xWGDIW6x921xtzPkhiULtthJHoJvBbF3q26fzloPCK0hsvxtPVelvftw3zjbHWSkR2km9Z+4uxbDDK/6Zw9B8w==,
       }
     dev: true
+
+  /react-state-url-fragment/1.0.0_react@18.2.0:
+    resolution:
+      {
+        integrity: sha512-CNX7L3sZqvjLx3PPC8HXA9Jl9Xz/J9Ld2zpr59Ny3iRgsy8O7zP2sCtnpoliMJ4B4AVVW2V4gaX/NjBXrwgRug==,
+      }
+    peerDependencies:
+      react: ^18.0.0
+    dependencies:
+      react: 18.2.0
+    dev: false
 
   /react/18.2.0:
     resolution:
@@ -2793,7 +2807,7 @@ packages:
     engines: { node: '>=0.10.0' }
     dependencies:
       loose-envify: 1.4.0
-    dev: true
+    dev: false
 
   /require-directory/2.1.1:
     resolution:
@@ -2848,7 +2862,7 @@ packages:
       }
     dependencies:
       loose-envify: 1.4.0
-    dev: true
+    dev: false
 
   /semver/6.3.0:
     resolution:
@@ -3099,7 +3113,7 @@ packages:
       }
     engines: { node: '>=4.2.0' }
     hasBin: true
-    dev: true
+    dev: false
 
   /update-browserslist-db/1.0.10_browserslist@4.21.4:
     resolution:

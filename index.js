@@ -6,7 +6,7 @@ const App = (props) => {
 }
 
 const rootElement = document.getElementById('root')
-const appComponent = html`<${App} foo='bar' />`
+const appComponent = html`<${App} foo="bar" />`
 // ReactDOM.render(appComponent, rootElement)
 ReactDOM.createRoot(rootElement).render(appComponent)
 // ReactDOM.createRoot(rootElement).render(
