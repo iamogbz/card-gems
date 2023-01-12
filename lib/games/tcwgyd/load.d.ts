@@ -11,4 +11,4 @@ interface TCWGYD {
   }[]
 }
 
-export { TCWGYD as tcwgyd }
+export async function load(): TCWGYD
