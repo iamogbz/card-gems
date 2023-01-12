@@ -10,3 +10,5 @@ interface TCWGYD {
     cards: string[]
   }[]
 }
+
+export { TCWGYD as tcwgyd }

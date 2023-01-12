@@ -4,7 +4,18 @@
     <title>Cards Games</title>
   </head>
   <body>
-    <div id="card-gems"></div>
-    <script src="index.js"></script>
+    <div id="root">
+      Loading...
+      <noscript>JavaScript is required.</noscript>
+    </div>
+    <script type="importmap">
+      {
+        "imports": {
+          "react": "./lib/deps/react.js",
+          "react-state-url-fragment": "https://unpkg.com/react-state-url-fragment@1/lib/index.js"
+        }
+      }
+    </script>
+    <script type="module" src="./index.js"></script>
   </body>
 </html>
