@@ -40,7 +40,7 @@
 [A] with an apple phone; drink
 [A] with the biggest ears; drink
 [A] with the smallest ears; drink
-[A] without touching anything balance on one leg; last one to fall; picks someone to drink
+[A] without touching anything balance on one leg and last one to fall wins; picks someone to drink
 [A] younger than you; drink
 [B] animal; different
 [B] beer brands; different
@@ -64,14 +64,14 @@
 [E] to play rock, paper, scissors with; win
 [F] a dance move of your choice
 [F] a song of your choice
-[G] {2} everyone has to follow a rule you make up; all; drink
-[G] everyone must play in silence; first; drink
-[G] everyone speaks in the third person; first; drink
-[G] everyone speaks with one syllable words; first; drink
-[G] you are "Simon", everyone plays "Simon Says"; first; drink
-[G] you can not laugh; first; drink
-[G] you can not make eye contact with anyone; first; drink
-[G] you can not open your eyes; first; drink
+[G] {2} everyone has to follow a rule you make up; All; drink
+[G] everyone must play in silence; First; drink
+[G] everyone speaks in the third person; First; drink
+[G] everyone speaks with one syllable words; First; drink
+[G] you are "Simon", everyone plays "Simon Says"; First; drink
+[G] you can not laugh; First; drink
+[G] you can not make eye contact with anyone; First; drink
+[G] you can not open your eyes; First; drink
 [H] hold up either a thumbs up or down; does opposite of you
 [H] is in a staring contest; last blinks picks someone
 [H] says a color of the rainbow; says the same as you
@@ -89,7 +89,7 @@ Tell two truths and a lie. If the first person to guess picks the lie, you drink
 
 A. Person(s) [condition]. The winners [action].
 B. Start with you, pick a [thing] and everyone takes turns saying [condition]. First person to hesitate or repeat a [thing] drinks.
-C. Pick a [thing] and act out thing [thing] without talking/speaking/singing. First to guess correctly picks someone to drink. If no one guesses you drink.
+C. Pick a [thing] and act out [thing] without talking/speaking/singing. First to guess correctly picks someone to drink. If no one guesses you drink.
 D. You can either [condition] or refuse and drink.
 E. Ask another player [action] you. If they [condition] you drink, otherwise they drink.
 F. Pick two people to perform [action]. You pick the worse performer to drink.
