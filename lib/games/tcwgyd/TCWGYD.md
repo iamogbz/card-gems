@@ -54,42 +54,12 @@
 [C] movie (scene)
 [C] song (melody)
 [C] superhero
-[D] answer truthfully any question the person after you asks
-[D] fulfill succesfully any action the person after you dares
-[D] switch shirts with someone for the remainder of the game
-[D] take off an article of clothing, including neither accessory nor jewelry
-[E] a true or false question about; answer correctly
-[E] to confirm your guess of their underwear color; show a different color
-[E] to have a staring contest with; win
-[E] to play rock, paper, scissors with; win
-[F] a dance move of your choice
-[F] a song of your choice
-[G] {2} everyone has to follow a rule you make up; All; drink
-[G] everyone must play in silence; First; drink
-[G] everyone speaks in the third person; First; drink
-[G] everyone speaks with one syllable words; First; drink
-[G] you are "Simon", everyone plays "Simon Says"; First; drink
-[G] you can not laugh; First; drink
-[G] you can not make eye contact with anyone; First; drink
-[G] you can not open your eyes; First; drink
-[H] hold up either a thumbs up or down; does opposite of you
-[H] is in a staring contest; last blinks picks someone
-[H] says a color of the rainbow; says the same as you
-{3} Keep it. Double attack. Can be used to once to force a drinker to drink a double.
-{3} Keep it. Drinking buddies. Can be used to once to force someone else to drink with you.
-{3} Keep it. Swap attack. Can be used to once to force someone else to drink instead of you.
-{4} Keep it or donate it to someone. Free pass. Can be used once to get out of drinking.
-{5} You drink.
-Flip a coin. If it's heads, you drink, else, everyone else drinks.
-Make any action the next person repeats all previous ations and adds another. Continue until someone messes up. That person drinks.
-Tell a joke. If no one chuckles or laughs, you drink.
-Tell two truths and a lie. If the first person to guess picks the lie, you drink otherwise they drink.
 
 ## Types
 
 A. Person(s) [condition]. The winners [action].
 B. Start with you, pick a [thing] and everyone takes turns saying [condition]. First person to hesitate or repeat a [thing] drinks.
-C. Pick a [thing] and act out [thing] without talking/speaking/singing. First to guess correctly picks someone to drink. If no one guesses you drink.
+C. Pick a [thing] and demonstrate [thing] without singing / speaking. First to guess correctly picks someone to drink. If no one guesses you drink.
 D. You can either [condition] or refuse and drink.
 E. Ask another player [action] you. If they [condition] you drink, otherwise they drink.
 F. Pick two people to perform [action]. You pick the worse performer to drink.
