@@ -57,7 +57,7 @@
 
 ## Types
 
-A. Person(s) [condition]. The winners [action].
+A. People [condition], [action].
 B. Start with you, pick a [thing] and everyone takes turns saying [condition]. First person to hesitate or repeat a [thing] drinks.
 C. Pick a [thing] and demonstrate [thing] without singing / speaking. First to guess correctly picks someone to drink. If no one guesses you drink.
 D. You can either [condition] or refuse and drink.
