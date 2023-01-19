@@ -7,7 +7,7 @@
 [A] drank in the last round; picks someone to drink
 [A] have any dietary restriction; drink
 [A] longest first name; drink
-[A] most recently posted on instagram; drink
+[A] most recently posted a picture on social media; drink
 [A] most recently used the bathroom; drink
 [A] older than you; drink
 [A] shortest last name; drink
