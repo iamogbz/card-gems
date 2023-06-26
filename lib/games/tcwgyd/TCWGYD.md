@@ -10,7 +10,7 @@
 [A] that touch their nose last; drink
 [A] vote on who has the biggest hands; pick someone to drink
 [A] vote on who is the biggest alcoholic; pick someone to drink
-[A] vote on who is the biggest asshole; drink
+[A] vote on who is the biggest ass; drink
 [A] vote on who is the most indecisive; pick someone to drink
 [A] vote on who is the most likely to argue with a stranger; drink
 [A] vote on who is the most likely to be in bed by 10PM; drink
