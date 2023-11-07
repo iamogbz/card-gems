@@ -57,11 +57,11 @@
 
 ## Types
 
-A. People [condition], they [action].
+A. Player(s) [condition], they [action].
 B. Start with you, pick a [thing] and everyone takes turns saying a [condition] [thing]. First person to hesitate or repeat a [thing] drinks.
 C. Pick a [thing] and demonstrate [thing] without singing / speaking. First to guess correctly picks someone to drink. If no one guesses you drink.
 D. You can either [condition] or refuse and drink.
 E. Ask another player [action] you. If they [condition] you drink, otherwise they drink.
-F. Pick two people to perform [action]. You pick the worse performer to drink.
+F. Pick two players to perform [action]. You pick the worse performer to drink.
 G. Until it's your turn, [rule]. [break] rule breaker(s) [action].
 H. On the count of three, everyone [action]. Whoever [condition] drinks.

@@ -1,14 +1,5 @@
-import { Game } from './games'
+import { GAME } from "../games";
 
-interface TCWGYD {
-  title: string
-  players: {
-    max: number
-    min: number
-  }
-  rounds: {
-    cards: string[]
-  }[]
-}
+interface TCWGYD extends GAME {}
 
-export async function load(): TCWGYD
+export function load(): Promise<TCWGYD>
