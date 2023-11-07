@@ -1,6 +1,7 @@
 # We Are Not Really Strangers
 
 <!-- LEVEL ONE -->
+
 [A] choice I would make between coffee or tea person, sweetened or unsweetened?
 [A] compliment I hear the most
 [A] hardest part of what I do for a living
@@ -39,7 +40,9 @@
 [F] Do I intimidate you?
 [F] Make an assumption about me
 [F] What about me intrigues you?
+
 <!-- LEVEL TWO -->
+
 [A] greater fear for you, failure or success?
 [A] best lessons being single has taught you? About yourself, others etc.
 [A] dream you let go of?
@@ -91,7 +94,9 @@
 [F] What part of your life works what part of your life hurts?
 [F] What's your father's name and one thing you know about him.
 [F] What's your mom's name and what is the most beautiful thing about her?
+
 <!-- LEVEL THR -->
+
 [A] area I most qualified to give advice about
 [A] best thing we can create together?
 [A] defining characteristic about me?
@@ -133,6 +138,6 @@
 A. Explain what you think is the [thing]
 B. Explain and include a scale of 1-10 [condition], from [lowest] to [highest]
 C. Explain what your [condition]
-D. Finish the sentence: [predicate] _____________
+D. Finish the sentence: [predicate] ******\_******
 E. Explain if you think I [condition]
 F. [wildcard]

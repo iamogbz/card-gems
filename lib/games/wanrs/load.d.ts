@@ -1,4 +1,4 @@
-import { GAME } from "../games";
+import { GAME } from '../games'
 
 interface WANRS extends GAME {}
 
